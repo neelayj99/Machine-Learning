@@ -1,2 +1,2 @@
 # Machine-Learning
-Project for Machine Learning Lab
+Project for Machine Learning
